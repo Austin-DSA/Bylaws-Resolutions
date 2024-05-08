@@ -35,7 +35,7 @@ Austin DSA shall hold its membership convention annually in the month of either 
 
 ### Section 4.2. General Meeting
 
-General meetings shall be held monthly, not inclusive of the Membership Convention, all to be scheduled by the Leadership Committee within fifteen days of taking office. The membership shall be notified of this schedule. This schedule may be altered at any time by the Leadership Committee. Voting items may be submitted to the Leadership committee by membership for general meetings. If a voting item is submitted at least 5 days advance alongside 25 endorsements from eligible members, then the voting item will automatically be added to the agenda, unless other restrictions apply as defined in the bylaws.
+General meetings shall be held monthly, not inclusive of the Membership Convention, all to be scheduled by the Leadership Committee within fifteen days of taking office. The membership shall be notified of this schedule. This schedule may be altered at any time by the Leadership Committee. Voting items may be submitted to the Leadership committee by membership for general meetings. If a voting item is submitted at least five days advance alongside twenty-five endorsements from eligible members, then the voting item will automatically be added to the agenda, unless other restrictions apply as defined in the bylaws.
 
 ### Section 4.3. Special Meetings
 
