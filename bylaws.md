@@ -197,6 +197,10 @@ The Membership Engagement Committee shall be responsible for the oversight and i
 
 The Electoral Committee shall be responsible for coordinating the electoral activities and campaigns of the Chapter, including without limitation: (a) proactive electoral research for potential electoral campaigns led by Austin DSA; (b) creating endorsement procedures to be voted on by the Leadership Committee (including the creation and dissemination of endorsement questionnaires, candidate interviews, and producing endorsement recommendations to the chapter membership); and (c) organizing canvasses and other campaign activities for endorsed candidates. The Electoral Committee shall have two co-chairs, elected by the membership of the Committee, one of whom will be the Electoral Coordinator.
 
+#### Section 7.2.8. YDSA Committee
+
+The YDSA Committee shall have at least two members, and shall be responsible for forming and maintaining lasting connections with existing YDSA chapters across the Austin DSA area and encouraging the formation of new chapters at high schools and universities in the Austin DSA area. The committee will also be responsible for connecting with the National YDSA, as well as chapters outside of the Austin DSA area when relevant. The YDSA Committee shall have two co-chairs, democratically elected by the committee membership, one of whom shall be the YDSA Coordinator.  Other officer positions and subcommittees may be created if approved by the membership of the committee without needing amendments to the bylaws herein.
+
 ### Section 7.3. Ad Hoc Committees
 
 The Leadership Committee or the Co-Chairs may create and appoint members to ad hoc committees to handle specific administrative tasks or priorities of the Leadership Committee. The Leadership Committee shall define the specific purpose and duration of an ad hoc committee in writing at the time of creation. 
