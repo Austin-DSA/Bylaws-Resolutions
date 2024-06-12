@@ -167,7 +167,7 @@ The Leadership Committee shall create standards and criteria for the creation of
 
 #### Section 7.1.5. Membership Initiation or Dissolution of a Project Committee
 
-Members may initiate the creation or dissolution of a project committee for a specific purpose and duration by presenting a petition of twenty-five members at least seven days in advance of a membership meeting or convention, at which point the resolution will be considered for a vote.
+Members may initiate the creation or dissolution of a project committee for a specific purpose and duration by presenting a petition of twenty-five members at least ten days in advance of a membership meeting or convention, at which point the resolution will be considered for a vote.
 
 ### Section 7.2. Standing Committees
 
