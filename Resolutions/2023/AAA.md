@@ -1,4 +1,5 @@
 # Resolution to Embark Upon a Broad and Robust Local Anti-Apartheid Campaign to be called: Austin Against Apartheid (AAA)
+
 Passed 12/13/2023 - 70 Yes - 0 No - 4 Abstain
 
 **Whereas,** Austin DSA is a mass organization of the multi-racial working class and an explicitly socialist organization, and socialism is necessarily internationalist; and
@@ -18,12 +19,14 @@ Passed 12/13/2023 - 70 Yes - 0 No - 4 Abstain
 **Therefore, be it resolved** that Austin DSA shall begin a local anti-apartheid campaign, to be called “Austinites Against Apartheid (AAA),” pursuant to Section 7.1 of the [Austin DSA Bylaws](https://www.austindsa.org/bylaws); and
 
 **Further resolved** that the primary goals of the AAA Campaign shall be:
+
 1. To work in coalition against common targets, increasing our collective impact on Zionist apartheid,
 2. To deepen our chapter’s connections to the Palestinian grassroots movement and to the anti-Zionist and anti-war movements more broadly,
 3. To reduce economic support for the ongoing colonization and occupation of historic Palestine by reducing imports of Israeli products into the United States, and sales by US companies complicit in Israeli settler-colonialism,
 4. To build a base of disciplined organizers who will be equipped to carry out the class struggle beyond this specific campaign, and a network of organizations which support the liberatory project of socialism and anti-imperialism; and
 
 **Further resolved** that the secondary goals of the AAA Campaign shall be:
+
 1. To work with the Political Education Committee to facilitate at least two (2) political education events, about the history of Palestine, the BDS movement, Zionism and Anti-Zionism, and the struggle for Palestinian Liberation, and to interweave political education into the mobilizing components of the campaign
 2. To work with the Communications Committee to train members in writing op-eds, letters to the editor, press releases, and other forms of mass communication that undermine the dominant ruling class narrative of Zionism and political and economic support for Israel,
 
@@ -31,7 +34,7 @@ Passed 12/13/2023 - 70 Yes - 0 No - 4 Abstain
 
 **Further resolved** that the AAA Campaign shall be led by a Steering Committee (AAA-SC) which shall consist of the Campaigns Coordinator, two co-chairs, and one recording secretary, and shall be elected by the January 2024 General Meeting; and
 
-**Further resolved** that the AAA Campaign shall build upon the relationships formed by the existing local coalition that has developed and has been conducted alongside local Palestinian-led, anti-Zionist Jewish, community-based, and fellow socialist organizations. Austin DSA will lead on this campaign, establishing strategies targets and tactics within the campaign working group,	while inviting participation from these like minded and similarly oriented organizations.
+**Further resolved** that the AAA Campaign shall build upon the relationships formed by the existing local coalition that has developed and has been conducted alongside local Palestinian-led, anti-Zionist Jewish, community-based, and fellow socialist organizations. Austin DSA will lead on this campaign, establishing strategies targets and tactics within the campaign working group, while inviting participation from these like minded and similarly oriented organizations.
 
 **Further resolved** that Austin DSA shall take the lead on this campaign in terms of setting targets, pace, and programming, and invites coalition partners to participate within their own capacities; and
 
@@ -42,12 +45,14 @@ Passed 12/13/2023 - 70 Yes - 0 No - 4 Abstain
 **Further resolved** that, by endorsing the above movement, will conduct actions within the scope of chapter capacity in line with the national days of action which are called thereby, and that such actions may include, but shall not be limited to: mass canvasses, rallies, direct actions (sit-ins, protests, die-ins, etc.), business shutdowns, work slowdowns or stoppages (where possible); and
 
 **Further resolved** that the tactics employed by the AAA Campaign shall be consistent with the NA4A campaigns undertaken by DSA chapters elsewhere, which may include, but shall not be limited to:
+
 1. Targeted boycotts of specific brands of Israeli agricultural products
 2. Canvassing local stores, asking them to stop selling complicit Israeli products and pledge to become “Apartheid-Free Stores,” including hanging posters explaining the business practice of boycotting Israeli products and decrying genocide in the Gaza Strip and occupied West Bank,
 3. Tabling and flyering at community events and outside of stores which are particularly hostile to Palestinian liberation and/or are large chain stores to engage customers thereof and explain the reason for the boycott,
 4. Generating a list of Apartheid-Free Stores in the Austin metro area which could be considered for escalated action, such as shutdowns, work stoppages, etc.,
 
 **Further resolved** that the AAA Campaign shall request up to $1100 from the chapter fund, with any unused funds being returned to the general fund, for the following:
+
 1. Printed campaign literature: $500
 2. Auto-dialer support from National DSA staff for member inreach: $500
 3. Supplies for protest materials including signs, marshaling and safety: $100; and

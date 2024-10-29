@@ -1,0 +1,2 @@
+echo "Running markdown lint"
+mdl -s tests/markdown_rules.rb README.md bylaws.md Resolutions/
