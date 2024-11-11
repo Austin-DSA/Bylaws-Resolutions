@@ -35,7 +35,7 @@ Austin DSA shall hold its membership convention annually in the month of either 
 
 ### Section 4.2. General Meeting
 
-General meetings shall be held monthly, not inclusive of the Membership Convention, all to be scheduled by the Leadership Committee within fifteen days of taking office. The membership shall be notified of this schedule. This schedule may be altered at any time by the Leadership Committee. Voting items may be submitted to the Leadership committee by membership for general meetings. If a voting item is submitted at least five days in advance alongside twenty-five endorsements from eligible members, then the voting item will automatically be added to the agenda, unless other restrictions apply as defined in the bylaws. The Leadership Committee may remove an automatically added voting item by a two-thirds vote.
+General meetings shall be held monthly, not inclusive of the Membership Convention, all to be scheduled by the Leadership Committee within fifteen days of taking office. The membership shall be notified of this schedule. This schedule may be altered at any time by the Leadership Committee. 
 
 ### Section 4.3. Special Meetings
 
@@ -265,7 +265,7 @@ The membership shall use score voting for any internal election using a 0-2 scal
 
 ### Section 10.1 Notice of Proposed Amendments
 
-Members wishing to amend these bylaws must submit such draft amendments (a “Draft Amendment Petition”) to the Co-Chairs and Secretary ten days in advance of regularly scheduled General Meetings or the Membership Convention. The Draft Amendment Petition shall be signed by a Proponent plus thirty-five members of the Chapter. Discussion and a vote upon such amendments shall be listed on the membership meeting or membership convention agenda which is communicated to the membership ten days in advance of the meeting. The Co-Chairs and Secretary, or an ad hoc committee convened for this purpose, may consolidate substantively similar draft amendments. To ensure robust debate and economy of time, no more than five proposed amendments, chosen by the Co-Chairs and Secretary or the ad hoc committee created for this purpose, may be considered in one meeting.
+Members wishing to amend these bylaws must submit such draft amendments (a “Draft Amendment Petition”) to the Co-Chairs and Secretary twenty-one days in advance of regularly scheduled General Meetings or the Membership Convention. The Draft Amendment Petition shall be signed by a Proponent plus thirty-five members of the Chapter. Discussion and a vote upon such amendments shall be listed on the membership meeting or membership convention agenda which is communicated to the membership ten days in advance of the meeting. The Co-Chairs and Secretary, or an ad hoc committee convened for this purpose, may consolidate substantively similar draft amendments. To ensure robust debate and economy of time, no more than five proposed amendments, chosen by the Co-Chairs and Secretary or the ad hoc committee created for this purpose, may be considered in one meeting.
 
 ### Section 10.2 Bylaw Changes
 
