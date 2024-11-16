@@ -1,4 +1,5 @@
 # Austin DSA Bylaws
+
 Approved by membership on December 19, 2020
 
 Approved by the Austin DSA Leadership Committee on November 17, 2020
@@ -21,7 +22,7 @@ Membership in Austin DSA is open to anyone who (i) subscribes to the principles 
 
 ### Section 3.2 Dues
 
-In order to remain a member in good standing of Austin DSA, members must remain a member in good standing of DSA. Members of Austin DSA are also encouraged to participate in Austin DSA’s voluntary pledge system, but dues to Austin DSA shall be voluntary and shall not affect any member’s status in Austin DSA. 
+In order to remain a member in good standing of Austin DSA, members must remain a member in good standing of DSA. Members of Austin DSA are also encouraged to participate in Austin DSA’s voluntary pledge system, but dues to Austin DSA shall be voluntary and shall not affect any member’s status in Austin DSA.
 
 ### Section 3.3 Removal of Members
 
@@ -39,7 +40,7 @@ General meetings shall be held monthly, not inclusive of the Membership Conventi
 
 ### Section 4.3. Special Meetings
 
-A simple majority of the Leadership Committee, or of members at a General Meeting or Convention, may call for a Special Membership Meeting. The motion for such meeting shall state the purpose of the meeting, and any business conducted at the Special Meeting must be germane to this purpose. The date, time, and location of any special meeting shall be disseminated to the membership through all normal communication channels in use by the chapter at that time. At no time will a special meeting be held without 72 hours advance notice, and ten days notice is required if the purpose of the meeting relates to the fundamental existence and operation of the chapter.  
+A simple majority of the Leadership Committee, or of members at a General Meeting or Convention, may call for a Special Membership Meeting. The motion for such meeting shall state the purpose of the meeting, and any business conducted at the Special Meeting must be germane to this purpose. The date, time, and location of any special meeting shall be disseminated to the membership through all normal communication channels in use by the chapter at that time. At no time will a special meeting be held without 72 hours advance notice, and ten days notice is required if the purpose of the meeting relates to the fundamental existence and operation of the chapter.
 
 ### Section 4.4. Quorum
 
@@ -53,11 +54,11 @@ The Leadership Committee shall strive to ensure that the Membership Convention, 
 
 ### Section 5.1 Definition
 
-The officers of Austin DSA shall be the two Co-Chairs, the Vice Chair, the Secretary, the Treasurer, the Communications Coordinator, the Campaigns Coordinator, the Political Education Coordinator, the Electoral Coordinator,  the Membership Engagement Coordinator, the Labor Coordinator, the Texas DSA Chapter Coordinator, and the YDSA Chapter Coordinator. 
+The officers of Austin DSA shall be the two Co-Chairs, the Vice Chair, the Secretary, the Treasurer, the Communications Coordinator, the Campaigns Coordinator, the Political Education Coordinator, the Electoral Coordinator,  the Membership Engagement Coordinator, the Labor Coordinator, the Texas DSA Chapter Coordinator, and the YDSA Chapter Coordinator.
 
 ### Section 5.2 Co-Chairs
 
-There shall be two Co-Chairs, at least one of whom shall not identify as a cis-male. Co-Chairs shall be the executive officers of Austin DSA. They shall prepare agendas for and preside over General and Leadership Committee meetings, and shall assume the powers and duties of the presiding officers as specified in Robert’s Rules of Order. The Co-Chairs shall be the official public spokespersons for Austin DSA and shall initiate such actions and policies as the membership may demand. 
+There shall be two Co-Chairs, at least one of whom shall not identify as a cis-male. Co-Chairs shall be the executive officers of Austin DSA. They shall prepare agendas for and preside over General and Leadership Committee meetings, and shall assume the powers and duties of the presiding officers as specified in Robert’s Rules of Order. The Co-Chairs shall be the official public spokespersons for Austin DSA and shall initiate such actions and policies as the membership may demand.
 
 ### Section 5.3 Vice Chair
 
@@ -65,11 +66,11 @@ The Vice Chair is responsible for assisting the Co-Chairs with all of their duti
 
 ### Section 5.4 Secretary
 
-The Secretary shall be responsible for the recording of minutes of the Membership Conventions, General Meetings, and the Leadership Committee Meetings, and shall maintain supervision over these minutes, resolutions, reports, and all other chapter documents, which shall be the property of Austin DSA. The Secretary is responsible for ensuring that adequate notice is given to the membership prior to Leadership Committee meetings, membership meetings and the membership convention. The Secretary shall assist the Co-Chairs in setting the agenda for General Meetings, and cause the agenda to be published no less than three days prior to the meeting. The Secretary shall also be responsible for the security and maintenance of Austin DSA’s membership roster and shall be an ex officio member of the Special Elections Committee. 
+The Secretary shall be responsible for the recording of minutes of the Membership Conventions, General Meetings, and the Leadership Committee Meetings, and shall maintain supervision over these minutes, resolutions, reports, and all other chapter documents, which shall be the property of Austin DSA. The Secretary is responsible for ensuring that adequate notice is given to the membership prior to Leadership Committee meetings, membership meetings and the membership convention. The Secretary shall assist the Co-Chairs in setting the agenda for General Meetings, and cause the agenda to be published no less than three days prior to the meeting. The Secretary shall also be responsible for the security and maintenance of Austin DSA’s membership roster and shall be an ex officio member of the Special Elections Committee.
 
 ### Section 5.5 Treasurer
 
-The Treasurer is responsible for maintaining the funds and financial records of Austin DSA. All funds collected shall be turned over to the Treasurer. The Treasurer delivers the annual financial report to the Membership Convention. The Treasurer prepares and submits financial statements to the Leadership Committee for their review at least quarterly. 
+The Treasurer is responsible for maintaining the funds and financial records of Austin DSA. All funds collected shall be turned over to the Treasurer. The Treasurer delivers the annual financial report to the Membership Convention. The Treasurer prepares and submits financial statements to the Leadership Committee for their review at least quarterly.
 
 ### Section 5.6 Political Education Coordinator
 
@@ -81,21 +82,21 @@ The Communications Coordinator shall be a Co-Chair of the Communications Committ
 
 ### Section 5.8 Campaigns Coordinator
 
-The Campaigns Coordinator shall be responsible for coordinating the activity of the Project Committees. They shall assist in the operations of the Project Committees, including assisting in the organizational structure, ensuring meetings of the committees operate according to principles of transparency, accessibility, and full participation, and reporting back to the Leadership Committee on the progress and operations of the Project Committees. The Leadership Committee may, by majority vote, appoint the Campaigns Coordinator to be one of two co-chairs of any Project Committee. 
+The Campaigns Coordinator shall be responsible for coordinating the activity of the Project Committees. They shall assist in the operations of the Project Committees, including assisting in the organizational structure, ensuring meetings of the committees operate according to principles of transparency, accessibility, and full participation, and reporting back to the Leadership Committee on the progress and operations of the Project Committees. The Leadership Committee may, by majority vote, appoint the Campaigns Coordinator to be one of two co-chairs of any Project Committee.
 
 ### Section 5.9 Electoral Coordinator
 
-The Electoral Coordinator shall be a Co-Chair of the Electoral Committee, and shall be responsible, in cooperation with the Electoral Committee, for coordinating the electoral activities and campaigns of the Chapter, including without limitation: (a) proactive electoral research for future electoral races led by Austin DSA; (b) creating endorsement procedures to be voted on by the Leadership Committee (including the creation and dissemination of endorsement questionnaires, candidate interviews, and producing endorsement recommendations to the chapter membership); (c) organizing canvasses and other campaign activities for endorsed candidates. 
+The Electoral Coordinator shall be a Co-Chair of the Electoral Committee, and shall be responsible, in cooperation with the Electoral Committee, for coordinating the electoral activities and campaigns of the Chapter, including without limitation: (a) proactive electoral research for future electoral races led by Austin DSA; (b) creating endorsement procedures to be voted on by the Leadership Committee (including the creation and dissemination of endorsement questionnaires, candidate interviews, and producing endorsement recommendations to the chapter membership); (c) organizing canvasses and other campaign activities for endorsed candidates.
 
 ### Section 5.10 Membership Engagement Coordinator
 
-The Membership Engagement Coordinator shall be a Co-Chair of the Membership Engagement Committee, and shall be responsible, in cooperation with the Membership Engagement Committee, for coordinating the outreach, recruitment, and engagement activities of the Chapter, including without limitation: (a) running new member orientations; (b) recruiting new members; and (c) holding social events (e.g., potlucks, happy hours, meet-and-greets). 
+The Membership Engagement Coordinator shall be a Co-Chair of the Membership Engagement Committee, and shall be responsible, in cooperation with the Membership Engagement Committee, for coordinating the outreach, recruitment, and engagement activities of the Chapter, including without limitation: (a) running new member orientations; (b) recruiting new members; and (c) holding social events (e.g., potlucks, happy hours, meet-and-greets).
 
 ### Section 5.11 Labor Coordinator
 
-The Labor Coordinator shall be a Co-Chair of the Labor Committee, and shall be responsible, in cooperation with the Labor Committee, for coordinating the labor activities and campaigns of the Chapter, including without limitation: (a) the efforts of the Labor Branch, Restaurant Organizing Project, and the local branch of Emergency Worker Organizing Committee; (b) fostering rank-and-file recruiting pipelines into existing unions; (c) support for local labor branch radical groups; and (d) creating or disseminating labor-related political education and trainings for workplace militants. 
+The Labor Coordinator shall be a Co-Chair of the Labor Committee, and shall be responsible, in cooperation with the Labor Committee, for coordinating the labor activities and campaigns of the Chapter, including without limitation: (a) the efforts of the Labor Branch, Restaurant Organizing Project, and the local branch of Emergency Worker Organizing Committee; (b) fostering rank-and-file recruiting pipelines into existing unions; (c) support for local labor branch radical groups; and (d) creating or disseminating labor-related political education and trainings for workplace militants.
 
-### Section 5.12 Texas DSA Chapter Coordinator 
+### Section 5.12 Texas DSA Chapter Coordinator
 
 The Texas Chapter Coordinator shall be responsible for coordinating activities and campaigns of the Chapter with other DSA chapters in Texas, including without limitation: (a) statewide political education including lectures, book talks, and organizer trainings; (b) the distribution and exchange of events, literature, and other materials between chapters; (c) electoral efforts for state-level offices; and (d) the development of chapter leadership across the state.
 
@@ -109,35 +110,35 @@ No person shall hold multiple officer positions on the Leadership Committee or h
 
 ### Section 5.15 Term of Office
 
-All chapter officers shall each be directly elected according to the procedures defined in these Bylaws to a one-year term. Elected officers’ terms of office begin on the first day of the month following the Membership Convention and end on the last day of the month of the following year’s Membership Convention. 
+All chapter officers shall each be directly elected according to the procedures defined in these Bylaws to a one-year term. Elected officers’ terms of office begin on the first day of the month following the Membership Convention and end on the last day of the month of the following year’s Membership Convention.
 
 ## Article 6 Leadership Committee
 
 ### Section 6.1 Composition
 
-The Leadership Committee shall consist of the thirteen elected officers of Austin DSA as defined in Article V. 
+The Leadership Committee shall consist of the thirteen elected officers of Austin DSA as defined in Article V.
 
 ### Section 6.2 Function, Powers, and Duties
 
-The Leadership Committee shall operate as the governing board of the Chapter and shall have general supervision of the affairs of the Chapter between General Meetings, set the time and place of the regular meetings, make recommendations to the Chapter, and perform such other duties that are specified in these bylaws. 
+The Leadership Committee shall operate as the governing board of the Chapter and shall have general supervision of the affairs of the Chapter between General Meetings, set the time and place of the regular meetings, make recommendations to the Chapter, and perform such other duties that are specified in these bylaws.
 
 ### Section 6.3 Leadership Committee Meetings
 
-The Leadership Committee shall meet at least once each month, or more frequently if determined by a prior Leadership Committee meeting or the call of the Chairs upon consultation with any three other members of the Leadership Committee. The Co-Chairs of the Chapter shall set the time and place of each Leadership Committee meeting. 
+The Leadership Committee shall meet at least once each month, or more frequently if determined by a prior Leadership Committee meeting or the call of the Chairs upon consultation with any three other members of the Leadership Committee. The Co-Chairs of the Chapter shall set the time and place of each Leadership Committee meeting.
 
 ### Section 6.4 Quorum
 
-A majority of the members of the Leadership Committee shall constitute a quorum of the Leadership Committee. 
+A majority of the members of the Leadership Committee shall constitute a quorum of the Leadership Committee.
 
 ### Section 6.5 Removal and Vacancies
 
 Any member of the Leadership Committee may be removed by the Leadership Committee for violation of the articles or bylaws of the Organization, or for conduct prejudicial to the best interests of DSA or Austin DSA, including malfeasance, nonfeasance, gross negligence, chronic absence, or undemocratic behavior.
 
-The Leadership Committee must notify said member of its intention to vacate their position no less than five business days prior to the meeting at which such action will be voted on. The removal of the officer shall be made by motion and require a two-thirds majority of the Leadership Committee members present at the meeting. The motion shall state with particularity the reason for removal, with reference to specific acts. 
+The Leadership Committee must notify said member of its intention to vacate their position no less than five business days prior to the meeting at which such action will be voted on. The removal of the officer shall be made by motion and require a two-thirds majority of the Leadership Committee members present at the meeting. The motion shall state with particularity the reason for removal, with reference to specific acts.
 
-Should any member of the Leadership Committee miss three or more consecutive Leadership Committee meetings, exclusive of Extraordinary Meetings, the Leadership Committee shall declare that position vacant, or excuse one or more absence by majority vote. 
+Should any member of the Leadership Committee miss three or more consecutive Leadership Committee meetings, exclusive of Extraordinary Meetings, the Leadership Committee shall declare that position vacant, or excuse one or more absence by majority vote.
 
-All vacancies, whether from removal, voluntary resignation, or otherwise, will be filled by majority vote of the Leadership Committee within 45 days. 
+All vacancies, whether from removal, voluntary resignation, or otherwise, will be filled by majority vote of the Leadership Committee within 45 days.
 
 ### Section 6.6 Recall of Officers
 
@@ -163,7 +164,7 @@ The Leadership Committee shall define the duration of the Project Committee in t
 
 #### Section 7.1.4 Project Committee Standards
 
-The Leadership Committee shall create standards and criteria for the creation of a Project Committee, with criteria for a Project Committee and instructions for the form of proposals for their creation 
+The Leadership Committee shall create standards and criteria for the creation of a Project Committee, with criteria for a Project Committee and instructions for the form of proposals for their creation
 
 #### Section 7.1.5 Membership Initiation or Dissolution of a Project Committee
 
@@ -203,11 +204,11 @@ The YDSA Committee shall have at least two members, and shall be responsible for
 
 ### Section 7.3. Ad Hoc Committees
 
-The Leadership Committee or the Co-Chairs may create and appoint members to ad hoc committees to handle specific administrative tasks or priorities of the Leadership Committee. The Leadership Committee shall define the specific purpose and duration of an ad hoc committee in writing at the time of creation. 
+The Leadership Committee or the Co-Chairs may create and appoint members to ad hoc committees to handle specific administrative tasks or priorities of the Leadership Committee. The Leadership Committee shall define the specific purpose and duration of an ad hoc committee in writing at the time of creation.
 
 ### Section 7.4 Caucuses
 
-Caucuses are independent, self-organized formations of members of Austin DSA. Austin DSA encourages members to form caucuses to promote a vibrant democratic culture within the organization. Members may self-organize into temporary or permanent caucuses according to their shared interests, identities, or affinities for any purpose which is consistent with the values of the Democratic Socialists of America. Identity-based caucuses shall have access to chapter resources. 
+Caucuses are independent, self-organized formations of members of Austin DSA. Austin DSA encourages members to form caucuses to promote a vibrant democratic culture within the organization. Members may self-organize into temporary or permanent caucuses according to their shared interests, identities, or affinities for any purpose which is consistent with the values of the Democratic Socialists of America. Identity-based caucuses shall have access to chapter resources.
 
 ## Article 8 Rules and Prohibited Activity
 
@@ -225,7 +226,7 @@ A conflict of interest exists when a matter to be acted upon by Austin DSA or th
 
 Austin DSA adopts the Grievance and Harassment Policy adopted by DSA at the 2017 National Membership Convention (Resolution #33), attached as Addendum 2.
 
-#### Section 8.3.2 Conduct of Members. 
+#### Section 8.3.2 Conduct of Members.
 
 All members of Austin DSA have a right to participation and enjoyment of the rights and privileges of membership without interference, harassment, bullying, or uncomradely behavior. No member may engage in behavior that either in its purpose or effect creates a hostile environment that interferes with an individual’s capacity to organize within DSA; or, through its severity or persistence is intimidating, hostile, or offensive. Any code of conduct adopted by the national organization is in effect within Austin DSA.
 
@@ -250,12 +251,14 @@ Resolution #33 of the 2017 National DSA Membership Convention is incorporated fu
 The membership shall use score voting for any internal election using a 0-2 scale. For each candidate, a voter may choose 0 to indicate disapproval, 1 to indicate neutral, or 2 to indicate approval of that candidate. The winner of an election conducted with score voting is the candidate with the highest score. A voter who casts an incomplete ballot (does not indicate a score for every candidate) will be assumed to have voted 0 for any unmarked candidates. When counting ballots which contain all votes not clearly indicating a 1 or 2 (e.g., a check or X), votes for a candidate shall be counted as the highest score on the scale.
 
 ### Section 9.2 Electoral Candidate Endorsement Process
+
 1. A two-thirds supermajority of a general body meeting or special called meeting shall be required for endorsement, and for the resources of Austin DSA PAC to be mobilized on behalf of a candidate or campaign for public office.
 2. In single seat races, no more than one candidate shall receive endorsement.
 3. If more than one candidate in the same race receives over two-thirds plus one supermajority of the votes for endorsement, the candidate who receives the largest percentage of votes will get the endorsement.
 4. Abstentions are not to be counted against the percentage count of the candidate.
 
 ### Section 9.3 Suspension and Revocation of Candidate Endorsement
+
 1. The endorsement of the chapter may be provisionally suspended at the discretion of the Leadership Committee upon receiving notice of campaign or candidate behavior in serious or repeated violation of our bylaws, Feminist Process, or expectations of candidate and campaign behavior established by our endorsement process.
 2. Upon suspension, the Leadership Committee shall immediately inform membership, as well as the candidate, explaining the reason for suspension. No candidate event shall be publicly promoted, nor any expenditure on our chapter’s campaign for the candidate be authorized by the Leadership Committee, pending a vote of the general body to revoke or keep the endorsement.
 3. A vote to revoke or keep the endorsement shall be agendized at a General Body Meeting within two weeks of Leadership Committee’s decision to suspend, or a special called meeting during that period shall be held to discuss and vote on revoking endorsement.
@@ -275,7 +278,7 @@ With unanimous approval the Leadership Committee may make non-substantive edits 
 
 ### Section 10.2.1 Notification of Changes to Bylaws
 
-Austin DSA members must be notified within thirty days of any changes to these bylaws. 
+Austin DSA members must be notified within thirty days of any changes to these bylaws.
 
 ## Article 11 Jurisdiction
 
@@ -342,7 +345,7 @@ Democratic Socialists of America is committed to creating a space that is welcom
                 3. A description of reported incident
             3. Develop template forms for appealing the form of relief determined by Steering Committee that include the grounds of the appeal.
         4. Each DSA chapter and DSA National will have these structures in place no later than July 1, 2018.
-    3. Reporting procedure and timeline. 
+    3. Reporting procedure and timeline.
         1. After a written report has been submitted--whether through the email hotline or otherwise:
             1. The HGO(s) responsible for the reporting channel used by the accuser will contact the accused member within seven days to notify them that a report has been filed against them and request a written response to the report either affirming or denying its substance;
             2. The accused will submit their written response within seven days of being notified. If the accused does not meet this deadline, the HGO will recommend the Steering Committee move to take appropriate disciplinary action;
@@ -364,11 +367,11 @@ Democratic Socialists of America is committed to creating a space that is welcom
             4. Any recommended changes for making the reporting system more effective
             6. This report will not include personally identifying information of any parties in any dispute. The local HGO(s) will send the yearly report to the national HGO(s) no later than January 1 of the new year.
 3. Remedies and penalties
-    1. Determinations 
+    1. Determinations
         1. All reports will be assessed on a case-by-case basis by the HGO(s) and Steering Committee associated with the accuser’s reporting channel. The ultimate disposition of each report will be made by the chapter’s Steering Committee or, in the case of DSA National, the NPC, after that body reviews the written report and recommendation of the HGO(s).
-    2. Standard for Determining if a Report is Credible. 
+    2. Standard for Determining if a Report is Credible.
         1. The chapter’s Steering Committee or, in the case of DSA National, the NPC will find the factual allegation in a report is "credible" if it more-likely-than-not occurred.
-    3. Remedies and Penalties. 
+    3. Remedies and Penalties.
         1. If a chapter’s Steering Committee or, in the case of DSA National, the NPC finds the report to be credible, they are authorized to carry out the following remedies and penalties:
             1. A formal discussion between the accused and the Steering Committee to develop a plan to change the harassing behavior(s);
             2. Suspension from committee meetings and other chapter or organizational events;
@@ -378,7 +381,7 @@ Democratic Socialists of America is committed to creating a space that is welcom
         2. If a local chapter has established suspension or expulsion procedures, Steering Committee is authorized to enforce these remedies and penalties in accordance with those procedures.
         3. If the local chapter does not have established suspension or expulsion procedures, they will adopt the procedures outlined in Article III, Section 4 of the DSA Constitution and Article I, Section 3 of DSA bylaws.
             1. The NPC majority required in these procedures will instead by a Steering Committee majority
-            2. Local chapters that lack these procedures shall have suspension and expulsion procedures in place by July 1, 2018. 
+            2. Local chapters that lack these procedures shall have suspension and expulsion procedures in place by July 1, 2018.
         4. DSA national is authorized to enforce certain remedies and penalties in accordance with Article III, Section 4 of the DSA Constitution and Article I, Section 3 of DSA Bylaws
             1. Removal from DSA; and
             2. Any and all other relief deemed necessary and just by the chapter or national leadership.
